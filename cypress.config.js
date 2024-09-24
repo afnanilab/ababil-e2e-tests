@@ -13,6 +13,7 @@ module.exports = {
       // implement node event listeners here
     },
     
-    baseUrl:  'https://tooba-web.myababil.com/',
+    //baseUrl:  'https://tooba-web.myababil.com/',
+    baseUrl: 'https://give.deenfund.com',
   },
 };
